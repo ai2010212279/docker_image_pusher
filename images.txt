@@ -2,9 +2,9 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-xprobe/xinference:v0.13.3
-chatimage/chatchat:0.3.1.3-93e2c87-20240829
-
+#xprobe/xinference:v0.13.3
+#chatimage/chatchat:0.3.1.3-93e2c87-20240829
+qwenllm/qwenvl:2-cu121
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 ###
