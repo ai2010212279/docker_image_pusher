@@ -15,4 +15,5 @@
 #postgres:14.15-alpine3.21
 #redis:7.4
 #jdk8
-node:22.12.0
+#node:22.12.0
+mysql:5.7
