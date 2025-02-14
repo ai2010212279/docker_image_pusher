@@ -21,4 +21,5 @@
 #redis:6.0.7
 #mysql:5.7
 #redis:2.8
-node:18-alpine
+#node:18-alpine
+nvcr.io/nvidia/k8s/cuda-sample:nbody
