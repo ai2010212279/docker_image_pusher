@@ -36,4 +36,5 @@
 #nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04
 #qwenllm/qwen-omni:2.5-cu121
 #docker.stirlingpdf.com/stirlingtools/#stirling-pdf:1.2.0-fat
-zhuquelab/aig-server:latest
+#zhuquelab/aig-server:latest
+zhuquelab/aig-agent
