@@ -38,4 +38,6 @@
 #docker.stirlingpdf.com/stirlingtools/#stirling-pdf:1.2.0-fat
 #zhuquelab/aig-server:latest
 #zhuquelab/aig-agent
-pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
+#pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
+pytorch/pytorch:2.9.1-cuda12.8-cudnn9-runtime
+
