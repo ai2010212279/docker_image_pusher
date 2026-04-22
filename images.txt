@@ -42,4 +42,5 @@
 #pytorch/pytorch:2.9.1-cuda12.8-cudnn9-runtime
 #xprobe/xinference:v1.15.0-cu128
 #xprobe/xinference:v1.15.0-cpu
-facdbe/deepanalyze-env:latest
+#facdbe/deepanalyze-env:latest
+nvidia/cuda:12.2.0-runtime-ubuntu22.04
