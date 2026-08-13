@@ -49,4 +49,4 @@
 #eclipse-temurin:8-jre
 #node:18-alpine
 #nginx:alpine
-ollama
+ollama:latest
