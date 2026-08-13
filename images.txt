@@ -45,7 +45,8 @@
 #facdbe/deepanalyze-env:latest
 #nvidia/cuda:12.2.0-runtime-ubuntu22.04
 #postgres:12
-maven:3.8-openjdk-8
-eclipse-temurin:8-jre
-node:18-alpine
-nginx:alpine
+#maven:3.8-openjdk-8
+#eclipse-temurin:8-jre
+#node:18-alpine
+#nginx:alpine
+ollama
