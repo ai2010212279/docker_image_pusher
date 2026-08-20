@@ -51,4 +51,5 @@
 #nginx:alpine
 #ollama/ollama:latest
 #openai/openai:latest
-justsong/one-api:latest
+#justsong/one-api:latest
+ggml-org/llama.cpp:full
