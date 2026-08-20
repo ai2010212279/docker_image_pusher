@@ -53,3 +53,4 @@
 #openai/openai:latest
 #justsong/one-api:latest
 ggml-org/llama.cpp:full
+ggml-org/llama.cpp:full-cuda
