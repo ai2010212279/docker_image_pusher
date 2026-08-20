@@ -50,4 +50,5 @@
 #node:18-alpine
 #nginx:alpine
 #ollama/ollama:latest
-openai/openai:latest
+#openai/openai:latest
+justsong/one-api:latest
